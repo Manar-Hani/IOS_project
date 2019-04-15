@@ -1,0 +1,11 @@
+Key:ab3a45a607ba9596dbea0458d1bb0131
+Most Popular:https://api.themoviedb.org/3/movie/popular?api_key=ab3a45a607ba9596dbea0458d1bb0131
+Top Rated:https://api.themoviedb.org/3/discover/movie?api_key=ab3a45a607ba9596dbea0458d1bb0131&sort_by=vote_average.desc
+Required:Results{id,title,poster_path,overview,release_date}
+video:https://api.themoviedb.org/3/movie/videos?api_key=ab3a45a607ba9596dbea0458d1bb0131
+Reviews:http://api.themoviedb.org/3/movie/reviews?api_key=ab3a45a607ba9596dbea0458d1bb0131
+Libraries Used:
+-'AFNetworking', '~> 3.0'
+-'SDWebImage', '~> 4.0’
+-'HCSStarRatingView', '~> 1.5'
+-'PFNavigationDropdownMenu'
